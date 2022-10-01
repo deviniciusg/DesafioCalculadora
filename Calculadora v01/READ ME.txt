@@ -1,0 +1,3 @@
+Este projeto faz parte de um desafio, devo fazer uma calculadora usando apenas JS, HTML e CSS. Está versão é uma adaptação de versões de outras pessoas com minhas próprias modificações
+
+Work in progress

@@ -1,0 +1,5 @@
+Este projeto faz parte de um desafio, devo fazer uma calculadora usando apenas JS, HTML e CSS. Está versão é de um tutorial no Youtube, reproduzi apenas como guia do que devo fazer pare criar a minha calculadora do zero.
+
+Está versão tem um visual bem limpo e um código curto, mas tem muita margem para erros além de utilizaro o eval(), o que gera abertura para uso malicioso.
+
+A calculadora funciona, mas pode ser melhorada. 

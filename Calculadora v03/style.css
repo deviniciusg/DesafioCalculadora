@@ -1,0 +1,112 @@
+.container {
+    max-width: 309px;
+    max-height: 70%;
+    box-shadow: 5px 5px 5px 1px;
+    margin: 5% auto;
+    background-color: rgb(175, 175, 175);
+    border-radius: 10px;
+}
+
+#memoria {
+    text-align: right;
+    height: 35px;
+    padding: 3px 8px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+
+#operador {
+    text-align: right;
+    height: 35px;
+    padding: 3px 8px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+
+#display {
+    text-align: right;
+    height: 35px;
+    padding: 3px 8px;
+    font-size: 25px;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 75px);
+    grid-gap: 3px;
+    background-color: #fff;
+    color: #444;
+    border-radius: 10px;
+
+}
+
+#backspace, #equal {
+    width: 153px;
+}
+
+#ghost {
+    width: 0px
+}
+
+.button {
+    background-color: #444;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 75px;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.25s ease-in-out;
+
+    
+}
+
+.button:hover{
+   background-color: rgb(45, 45, 45);
+
+}
+
+
+/* .container {
+    max-width: 400px;
+    margin: 10vh auto 0 auto;
+    box-shadow: 0px 0px 43pc 17px rgba(153,153,153,1);
+}
+
+/* #display {
+    text-align: right;
+    height: 70px;
+    line-height: 70px;
+    padding: 16px 8px;
+    font-size: 25px;
+}
+
+.buttons {
+    display: grid;
+    border-bottom: 1px solid #999;
+    border-left: 1px solid #999;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.buttons > div {
+    border-top: 1px solid #999;
+    border-right: 1px solid #999;
+}
+
+.button {
+    border: 0.5px solid #999;
+    line-height: 100px;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+} 
+
+#equal {
+    background-color: rgb(87, 188, 255);
+    color: white;
+}
+
+.button:hover {
+    background-color: rgb(23, 23, 23);
+    color: white;
+    transition: 0.5s ease-in-out;
+} */ 
