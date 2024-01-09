@@ -1,0 +1,11 @@
+#calculadora{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.botao_numerico {
+    
+}
